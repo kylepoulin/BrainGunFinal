@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brain.bmp</file>
+    </qresource>
+</RCC>
